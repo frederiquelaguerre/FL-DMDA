@@ -1,0 +1,39 @@
+.logo {
+  height: 50px;
+  margin-bottom: -40px;
+  margin-left: 20px;
+  }
+.pelée {
+	-webkit-transition: all 0.2s;
+     -moz-transition: all 0.2s;
+     -ms-transition: all 0.2s;
+     -o-transition: all 0.2s;
+     transition: all 0.2s;
+     margin-left: 970px;
+     margin-top: -300px;
+     border: solid;
+     border-color: lightgrey;
+}
+.pelée:hover {
+     transform:scale(1.2);
+ }
+ .caravelle {
+     -webkit-transition: all 0.2s;
+     -moz-transition: all 0.2s;
+     -ms-transition: all 0.2s;
+     -o-transition: all 0.2s;
+     transition: all 0.2s;
+     margin-left: 50px;
+     margin-top: -180px;
+     border: solid;
+     border-color: lightgrey;
+}
+.caravelle:hover {
+     transform:scale(1.2);
+ }
+
+ .illu {
+     margin-left: 300px;
+     margin-top: -180px;
+     opacity: 77%;
+ }

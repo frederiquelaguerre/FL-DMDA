@@ -1,0 +1,24 @@
+.photo-moi {
+  height:350px ;
+  box-shadow: 8px 8px 10px 0 rgba(0,0,0,0.5);
+  display: flex;
+  margin-left: auto;
+  margin-right: 250px;
+  margin-top: -300px;  
+   }
+
+   .img-saline {
+  margin-left: 950px;
+  margin-top: -180px;
+  border: solid;
+}
+.img-montagne {
+  margin-left: 1100px;
+  margin-top: -100px;
+  border: solid;
+}
+.logo {
+  height: 50px;
+  margin-bottom: -40px;
+  margin-left: 20px;
+}

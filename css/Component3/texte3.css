@@ -1,0 +1,28 @@
+@import url('http://fonts.cdnfonts.com/css/kollektif');
+h1 {
+	padding: 20px;
+	font-size: 40px;
+	font-family: 'Kollektif', sans-serif ;
+}
+h2 {
+	margin-left: 20px;
+	font-size: 25px;
+}
+h3 {
+	margin-left: 20px;
+	font-size: 19px;
+}
+.para-pelée {
+  margin-right: 600px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+ .para-cara {
+ 	margin-right: 20px;
+ 	margin-left: 500px;
+ 	margin-top: 40px;
+ }
+ .p-1 {
+ 	margin-left: 20px;
+ }

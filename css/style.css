@@ -1,0 +1,59 @@
+@import 'Component/image.css';
+@import 'Component/box.css';
+@import 'Component/texte.css';
+@import url('http://fonts.cdnfonts.com/css/kollektif');
+@import url('http://fonts.cdnfonts.com/css/peachy');
+
+body {
+  background-color: #F7F7F7;
+}
+
+button { 
+  margin-top:25px;
+  margin-left: 50px;
+}
+.tabs li.is-active a {
+  color: white;
+    }
+.head-p {
+  text-align: center;
+  position: relative;
+  color : white;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.début{
+   background-color: #0EC7FF;
+}
+
+.menu-list {
+  display:flex;
+  padding: 0;
+  flex-direction:row-reverse;
+  font-family: ;
+  list-style-type: none;
+}
+.menu-list a {
+  display: block;
+  min-width: 120px;
+  color :white;
+}
+
+.level {
+  margin-top: auto;
+  background-color:#0EC7FF ;
+}
+ .martinique {
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 2px;
+  border color: grey;
+  padding: 50px;
+ }
+
+.manga1 {
+  background-color:#0EC7FF  ;
+  padding: 40px;
+  color: white;
+}

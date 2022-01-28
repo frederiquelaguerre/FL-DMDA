@@ -1,0 +1,15 @@
+.box {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.block{
+  padding: 10px;
+}
+.manga {
+  display: flex;
+  justify-content:space-around;
+
+}
+.row {
+  display : inline-block;
+}

@@ -1,0 +1,35 @@
+@import'Component2/texte2.css';
+@import'Component2/box2.css';
+@import url('http://fonts.cdnfonts.com/css/kollektif');
+body {
+  background-color: #F7F7F7;
+}
+.logo {
+  height: 50px;
+  margin-bottom: -40px;
+  margin-left: 20px;
+  }
+  .head-p {
+  text-align: center;
+  position: relative;
+  color : white;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.début{
+   background-color: #0EC7FF;
+}
+.menu-list {
+  display:flex;
+  padding: 0;
+  flex-direction:row-reverse;
+  font-family:Kollektif , regular ;
+  list-style-type: none;
+}
+.menu-list a {
+  display: block;
+  min-width: 120px;
+}
+
+
