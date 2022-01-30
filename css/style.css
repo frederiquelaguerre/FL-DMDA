@@ -14,7 +14,7 @@ button {
 }
 .tabs li.is-active a {
   color: white;
-    }
+}
 .head-p {
   text-align: center;
   position: relative;
@@ -56,4 +56,11 @@ button {
   background-color:#0EC7FF  ;
   padding: 40px;
   color: white;
+}
+
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .martinique, .main, p , .head-p, .box , svg ,.début{
+    width: 100%;
+  }
 }
